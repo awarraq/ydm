@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T01:10:36.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HbFo-wn98VdLCbZJcjMy" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T01:25:25.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="NxKm5mEWE_qmF9-PRfLK" version="14.1.1" type="github">
   <diagram id="KQFnIafnZ1n4bsRRpurM" name="Page-1">
-    <mxGraphModel dx="12470" dy="5060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="1">
+    <mxGraphModel dx="2174" dy="-588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D8alGkTM2vaMwEUGGYCS-503" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;shadow=1;sketch=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="6660" y="2300" width="840" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="2QkzoaublNwR3NWgK_p1-97" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=south;gradientColor=#FF5517;fillColor=#66CC00;opacity=40;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="400" y="2200" width="15520" height="4160" as="geometry" />
         </mxCell>
@@ -1797,7 +1800,7 @@
         <mxCell id="D8alGkTM2vaMwEUGGYCS-431" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=2;" parent="1" source="D8alGkTM2vaMwEUGGYCS-405" target="D8alGkTM2vaMwEUGGYCS-427" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D8alGkTM2vaMwEUGGYCS-405" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;Fr&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-style: italic ; font-size: 14px&quot;&gt;Bent Supine Posterior Pelvic Tilt&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-style: italic ; font-size: 14px&quot;&gt;?x ??r/s&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D8alGkTM2vaMwEUGGYCS-405" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;Fr&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-style: italic ; font-size: 14px&quot;&gt;Frog&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-style: italic ; font-size: 14px&quot;&gt;?x ??r/s&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7180" y="2517.5" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-407" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fillColor=none;spacing=0;" parent="1" vertex="1">
@@ -1859,7 +1862,7 @@
         <mxCell id="D8alGkTM2vaMwEUGGYCS-529" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=2;" parent="1" source="D8alGkTM2vaMwEUGGYCS-427" target="D8alGkTM2vaMwEUGGYCS-505" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D8alGkTM2vaMwEUGGYCS-427" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;EwFr&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-style: italic ; font-size: 14px&quot;&gt;Frong on Elbows&lt;br&gt;?x ??r/s&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D8alGkTM2vaMwEUGGYCS-427" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;EwFr&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-style: italic ; font-size: 14px&quot;&gt;Frog on Elbows&lt;br&gt;?x ??r/s&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7180" y="2720" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-428" value="Static" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2053,13 +2056,10 @@
         <mxCell id="D8alGkTM2vaMwEUGGYCS-481" value="Push" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6680" y="5320" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D8alGkTM2vaMwEUGGYCS-503" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;shadow=1;sketch=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="6660" y="2300" width="840" height="360" as="geometry" />
-        </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-530" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=2;" parent="1" source="D8alGkTM2vaMwEUGGYCS-505" target="D8alGkTM2vaMwEUGGYCS-509" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D8alGkTM2vaMwEUGGYCS-505" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;EwFr&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-style: italic ; font-size: 14px&quot;&gt;Frong on Elbows&lt;br&gt;?x ??r/s&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D8alGkTM2vaMwEUGGYCS-505" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;hEwL&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-style: italic ; font-size: 14px&quot;&gt;half Elbow Lever&lt;br&gt;?x ??r/s&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7180" y="2920" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-506" value="Static" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2074,7 +2074,7 @@
         <mxCell id="D8alGkTM2vaMwEUGGYCS-531" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=2;" parent="1" source="D8alGkTM2vaMwEUGGYCS-509" target="D8alGkTM2vaMwEUGGYCS-513" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D8alGkTM2vaMwEUGGYCS-509" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;hEwL&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-style: italic ; font-size: 14px&quot;&gt;half Elbow Lever&lt;br&gt;?x ??r/s&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D8alGkTM2vaMwEUGGYCS-509" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;SEwL&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-style: italic ; font-size: 14px&quot;&gt;Straddle Elbow Lever&lt;br&gt;?x ??r/s&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7180" y="3120" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-510" value="Static" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
