@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T05:21:23.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="J1v7VrpK6Mg54InG59JZ" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T05:58:52.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MMttVWMmsTnkRJ0ZXAMy" version="14.1.2" type="github">
   <diagram id="KQFnIafnZ1n4bsRRpurM" name="Page-1">
-    <mxGraphModel dx="25569" dy="11300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="1">
+    <mxGraphModel dx="6711" dy="2591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,25 +222,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oU2KcRpgLUhPs6zqGM6o-263" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;BR&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;i&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Bulgarian Rows&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;?x ??r/s&lt;/font&gt;&lt;br&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="3115" width="300" height="120" as="geometry" />
+          <mxGeometry x="580" y="3320" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oU2KcRpgLUhPs6zqGM6o-264" value="Bent Arm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3145" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="3350" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oU2KcRpgLUhPs6zqGM6o-265" value="Pull" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3115" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="3320" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oU2KcRpgLUhPs6zqGM6o-266" target="D8alGkTM2vaMwEUGGYCS-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oU2KcRpgLUhPs6zqGM6o-266" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;AR&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;i&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Archer Rows&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;?x ??r/s&lt;/font&gt;&lt;br&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="3315" width="300" height="120" as="geometry" />
+          <mxGeometry x="580" y="3520" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oU2KcRpgLUhPs6zqGM6o-267" value="Bent Arm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3345" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="3550" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oU2KcRpgLUhPs6zqGM6o-268" value="Pull" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3315" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="3520" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-651" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=2;" parent="1" source="oU2KcRpgLUhPs6zqGM6o-269" target="oU2KcRpgLUhPs6zqGM6o-272" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -768,13 +768,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-4" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;OAR&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;i&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;One Armed Rows&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;?x ??r/s&lt;/font&gt;&lt;br&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="3721" width="300" height="120" as="geometry" />
+          <mxGeometry x="580" y="3922.5" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-5" value="Bent Arm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3751" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="3952.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-6" value="Pull" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3721" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="3922.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D8alGkTM2vaMwEUGGYCS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D8alGkTM2vaMwEUGGYCS-10" target="D8alGkTM2vaMwEUGGYCS-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3985,12 +3985,6 @@
         </mxCell>
         <mxCell id="Yu5z3r9AF9Cut9ia2kPr-29" value="Core" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="11520" y="5608.5" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu5z3r9AF9Cut9ia2kPr-30" value="" style="shape=link;html=1;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="4940" y="4560" as="sourcePoint" />
-            <mxPoint x="5040" y="4560" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Yu5z3r9AF9Cut9ia2kPr-32" value="" style="endArrow=none;html=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
