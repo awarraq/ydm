@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T05:17:29.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="KryOVUCeETuxXJOHSbeK" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T05:21:23.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="J1v7VrpK6Mg54InG59JZ" version="14.1.2" type="github">
   <diagram id="KQFnIafnZ1n4bsRRpurM" name="Page-1">
-    <mxGraphModel dx="14230" dy="5166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="1">
+    <mxGraphModel dx="25569" dy="11300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4045,6 +4045,24 @@
         </mxCell>
         <mxCell id="Yu5z3r9AF9Cut9ia2kPr-49" value="&lt;font&gt;&lt;font style=&quot;font-size: 110px&quot;&gt;ELITE&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="6430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu5z3r9AF9Cut9ia2kPr-92" value="&lt;font style=&quot;font-size: 110px&quot;&gt;BASIC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="16120" y="2690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu5z3r9AF9Cut9ia2kPr-93" value="&lt;font&gt;&lt;font style=&quot;font-size: 110px&quot;&gt;BEGINNER&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="16120" y="3500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu5z3r9AF9Cut9ia2kPr-94" value="&lt;font&gt;&lt;font style=&quot;font-size: 110px&quot;&gt;INTERMEDIATE&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="16120" y="4299.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu5z3r9AF9Cut9ia2kPr-95" value="&lt;font&gt;&lt;font style=&quot;font-size: 110px&quot;&gt;ADVANCED&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="16120" y="5100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu5z3r9AF9Cut9ia2kPr-96" value="&lt;font&gt;&lt;font style=&quot;font-size: 110px&quot;&gt;EXPERT&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="16120" y="5890" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu5z3r9AF9Cut9ia2kPr-97" value="&lt;font&gt;&lt;font style=&quot;font-size: 110px&quot;&gt;ELITE&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="16130" y="6440" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
